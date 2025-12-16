@@ -3,7 +3,7 @@
 Containerized basic python webpp using Docker.
 
 ## My Work
-- Created Dockerfile for containerization
+- Created Dockerfile for containerization using Multi-Stage best practices
 - Optimized with Alpine base image
 - Published to Docker Hub
 
